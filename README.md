@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shivam</h1>
+<h3 align="center">A passionate Web Developer from India</h3>
 
-<!--
-**Shivamkumar31/Shivamkumar31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **React, Node.js, MongoDB**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **MERN Stack, C++, DSA**
+- 📫 How to reach me **shivamkumaryaadav04@gmail.com**
 
-Here are some ideas to get you started:
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivamkumar&theme=radical" alt="shivamkumar" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamkumar&show_icons=true&theme=radical" alt="shivamkumar stats"/>
+</p>
+
+### 🔗 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/shivam-kumar-95a70324b" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" height="30" width="30" /></a>
+<a href="mailto:shivam@example.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Mail" height="30" width="30" /></a>
+</p>
