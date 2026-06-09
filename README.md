@@ -29,3 +29,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamkumar31&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shivamkumar31)
+![Snake animation](https://github.com/Shivamkumar31/Shivamkumar31/blob/output/github-contribution-grid-snake.svg)
